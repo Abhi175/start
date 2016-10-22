@@ -1,6 +1,6 @@
 hi helo world
 i am here
-i
+i am outside global logic 
 i love you
 so how are you
 i am fine bro
